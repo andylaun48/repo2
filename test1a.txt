@@ -1,3 +1,7 @@
 aaaa
 AAAA
+<<<<<<< HEAD
 local edited
+=======
+server edited
+>>>>>>> 76e4c03201766db54a1e288ebee3f276a10c37fe
